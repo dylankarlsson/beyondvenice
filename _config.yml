@@ -1,6 +1,6 @@
 title:		Beyond Venice
 description:	'A survey of the Beyond Baroque archive and its networks.'
-freetext:	'Created for Digital Humanities 201.'
+freetext:
 baseurl:	'/'
 paginate:	3
 version:	0.1.0
