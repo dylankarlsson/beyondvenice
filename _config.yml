@@ -6,9 +6,9 @@
 # For baseurl:
 # Use '' for / or '/your-dir' for another directory
 
-title:		RLStevenson
-description:	'A Bootstrap based clone of the Hyde theme by mdo.'
-freetext:	'Released under an MIT license - feel free to make pull requests.'
+title:		Beyond Venice
+description:	'A survey of the Beyond Baroque archive and its networks.'
+freetext:	'Created as part of Miriam Posner's Digital Humanities 201 class.'
 baseurl:	'/'
 paginate:	3
 version:	0.1.0
@@ -19,8 +19,8 @@ piwikSiteID:	''
 piwikURL:	''
 
 author:
- url:		https://www.exchangerate-api.com
- name:		'ExchangeRate-API'
+ url:		no
+ name:		'Link'
 
 github:
  repo:		https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme
