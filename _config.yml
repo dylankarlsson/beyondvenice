@@ -12,7 +12,7 @@ freetext:	'Released under an MIT license - feel free to make pull requests.'
 baseurl:	'/'
 paginate:	3
 version:	0.1.0
-colorscheme:	scheme-custom
+colorscheme:	'scheme-custom'
 
 ga:		'UA-123-456'
 piwikSiteID:	''
