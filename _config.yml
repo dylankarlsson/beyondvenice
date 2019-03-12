@@ -15,7 +15,7 @@ author:
  name:		'Beyond Baroque'
 
 github:
- repo:		https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme
+ repo:		https://github.com/dylkarlsson/beyondvenice
 
 gems:		[jekyll-paginate]
 
