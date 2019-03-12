@@ -1,12 +1,5 @@
 
-##
-# RLStevenson Theme Options
-####
-
-# For baseurl:
-# Use '' for / or '/your-dir' for another directory
-
-title:		<Beyond Venice>
+title:		"Beyond Venice"
 description:	'A survey of the Beyond Baroque archive and its networks.'
 freetext:	'Created for Miriam Posner's Digital Humanities 201 class.'
 baseurl:	'/'
