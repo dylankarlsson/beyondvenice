@@ -6,21 +6,21 @@
 # For baseurl:
 # Use '' for / or '/your-dir' for another directory
 
-title:		RLStevenson
-description:	'A Bootstrap based clone of the Hyde theme by mdo.'
-freetext:	'Released under an MIT license - feel free to make pull requests.'
+title:		BeyondVenice
+description:	'A survey of the Beyond Baroque archive and its networks.'
+freetext:	'Created for Miriam Posner's Digital Humanities 201 class.'
 baseurl:	'/'
 paginate:	3
 version:	0.1.0
-colorscheme:	scheme-gulfracing
+colorscheme:	scheme-custom
 
 ga:		'UA-123-456'
 piwikSiteID:	''
 piwikURL:	''
 
 author:
- url:		https://www.exchangerate-api.com
- name:		'ExchangeRate-API'
+ url:		http://www.beyondbaroque.org/
+ name:		'Beyond Baroque'
 
 github:
  repo:		https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme
