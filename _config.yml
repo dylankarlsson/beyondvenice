@@ -6,7 +6,7 @@
 # For baseurl:
 # Use '' for / or '/your-dir' for another directory
 
-title:		Beyond Venice
+title:		'Beyond Venice'
 description:	'A survey of the Beyond Baroque archive and its networks.'
 freetext:	'Created as part of Miriam Posner's Digital Humanities 201 class.'
 baseurl:	'/'
