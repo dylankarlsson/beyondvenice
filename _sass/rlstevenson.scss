@@ -1,14 +1,14 @@
 
 
 /*
- * 
+ *
  * RLStevenson CSS
  * ------------
- * 
+ *
  * Built by ExchangeRate-API with Bootstrap - inspired by
  * Hyde (https://github.com/mdo/hyde).
- * 
- * 
+ *
+ *
  * CSS SECTIONS
  *
  * Defaults
@@ -164,7 +164,7 @@ p.attr {
 
 /* YOUR SCHEME HERE */
 .scheme-custom .sidebar {
-	background-color: #faf0e6;
+	background-image: url("sidebar.png");
 	color: #444;
 }
 .scheme-custom .sidebar h1 {
@@ -180,7 +180,7 @@ p.attr {
 	color: #9a9a9a;
 }
 
-/* 
+/*
  * The original Hyde theme uses Base16 for colour schemes so
  * we decided to also use this project. We picked different
  * colors though. We also used the Ocean and 80's palettes in
