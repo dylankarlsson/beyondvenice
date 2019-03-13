@@ -4,7 +4,7 @@ freetext:
 baseurl:	'/'
 paginate:	3
 version:	0.1.0
-colorscheme:	scheme-orange
+colorscheme:	scheme-custom
 
 ga:		'UA-123-456'
 piwikSiteID:	''
