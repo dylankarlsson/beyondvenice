@@ -1,0 +1,22 @@
+title:		Beyond Venice
+description:	'A survey of the Beyond Baroque archive and its networks.'
+freetext:
+baseurl:	'/'
+paginate:	3
+version:	0.1.0
+colorscheme:	scheme-orange
+
+ga:		'UA-123-456'
+piwikSiteID:	''
+piwikURL:	''
+
+author:
+ url:		http://www.beyondbaroque.org/
+ name:		'Beyond Baroque'
+
+github:
+ repo:		https://github.com/dylkarlsson/beyondvenice
+
+gems:		[jekyll-paginate]
+
+exclude:	['README.md', 'Gemfile.lock', 'Gemfile', '*.gemspec', '*.gem']
