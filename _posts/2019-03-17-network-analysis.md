@@ -5,7 +5,7 @@ title: Network Analysis
 ## [View Networks](https://dylankarlsson.github.io/bb-networks/#/)
 
 <iframe src="https://public.tableau.com/views/FiguresofBeyondBaroque/Dashboard1?:embed=y&:display_count=yes"
- width="645" height="955"></iframe>
+ width="800" height="500"></iframe>
 
 ## The Process
 
