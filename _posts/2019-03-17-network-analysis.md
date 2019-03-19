@@ -3,6 +3,8 @@ layout: post
 title: Network Analysis
 ---
 ## [View Networks](https://dylankarlsson.github.io/bb-networks/#/)
+
+
 ## The Process
 
 As a part of working to organize the Beyond Baroque archival collection, Johanna Drucker and a revolving team of students took to digitally scanning non-unique materials such as event flyers, calendars, and announcements. The digital scanner was equipped with Optical Character Recognition (OCR) software that could render the mediated, archival text into machine-readable, plain text. Using the OCR event calendars, the plain text files were run through a Named Entity Recognition script that pulled out strings of text that could be identified as potential names. With considerable cleaning of this data, an edge list was created.
