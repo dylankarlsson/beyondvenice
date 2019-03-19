@@ -4,8 +4,10 @@ title: Network Analysis
 ---
 ## [View Networks](https://dylankarlsson.github.io/bb-networks/#/)
 
+
 <iframe src="https://public.tableau.com/views/FiguresofBeyondBaroque/Dashboard1?:showVizHome=no&:embed=true&:display_count=yes"
  width="800" height="500"></iframe>
+
 
 ## The Process
 
