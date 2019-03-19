@@ -10,8 +10,7 @@ ga:		'UA-123-456'
 piwikSiteID:	''
 piwikURL:	''
 
-author:
- url:		https://dylankarlsson.github.io/bb-networks/#/
+url:		https://dylankarlsson.github.io/bb-networks/#/
  name:		'Networks'
 
 github:
