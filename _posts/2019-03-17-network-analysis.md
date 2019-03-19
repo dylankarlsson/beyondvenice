@@ -2,6 +2,7 @@
 layout: post
 title: Network Analysis
 author: dk
+date: 2019-03-17
 ---
 ## [View Networks](https://dylankarlsson.github.io/bb-networks/#/)
 
