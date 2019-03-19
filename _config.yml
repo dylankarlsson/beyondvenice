@@ -1,7 +1,7 @@
 title:		Beyond Venice
 description:	'A survey of the Beyond Baroque archive and its networks.'
 freetext:
-baseurl:	'/beyondvenice'
+baseurl:	'/'
 paginate:	3
 version:	0.1.0
 colorscheme:	scheme-custom
