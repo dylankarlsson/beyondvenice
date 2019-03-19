@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Network Analysis
+title: Networks and Community
 author: dk
 date: 2019-03-17
 ---
-## [View Networks](https://dylankarlsson.github.io/bb-networks/#/)
-
-
 <iframe src="https://public.tableau.com/views/FiguresofBeyondBaroque/Dashboard1?:showVizHome=no&:embed=true&:display_count=yes"
  width="800" height="500"></iframe>
 
+This chart presents an alternative view of the data contained in the calendar collection. A network is a highly suggestive form. Though network graphs are a useful tool for analysis, they are not the only way to conceptualize the distribution of connections made in a community. The chart shows the weight of a person's appearance in a given range of time.
+
+## [View the Networks](https://dylankarlsson.github.io/bb-networks/#/)
 
 ## The Process
 
