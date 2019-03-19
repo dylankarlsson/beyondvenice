@@ -13,6 +13,10 @@ piwikURL:	''
 author:
  url:		http://www.beyondbaroque.org/
  name:		'Beyond Baroque'
+ 
+author:
+ url: https://dylankarlsson.github.io/bb-networks/#/
+ name: 'Networks'
 
 github:
  repo:		https://github.com/dylkarlsson/beyondvenice
