@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Network Analysis
-author:
-date: 2019-03-17
 ---
 
 ## The Process
