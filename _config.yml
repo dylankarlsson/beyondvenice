@@ -2,7 +2,7 @@ title:		Beyond Venice
 description:	'A survey of the Beyond Baroque archive and its networks.'
 freetext:  By Dylan Karlsson
 baseurl:	'/'
-paginate:	5
+paginate:	0
 version:	0.1.0
 colorscheme:	scheme-custom
 
