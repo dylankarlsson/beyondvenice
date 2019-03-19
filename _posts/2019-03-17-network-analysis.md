@@ -17,15 +17,19 @@ The data used in this project is impacted by the preservation and digitization o
 
 The period ranging from 1968 to 1979 was a time of growth and creation for Beyond Baroque, as George Drury Smith’s shopfront was turned from office to literary hub. Wednesday night readings regularly brought poets and artists to the location on Washington Boulevard. The network here shows a tight nit group centralized mostly around the founder George Drury Smith. His degree centrality shows how ever-present he was in the early days, as both founder and central administrator. Jack Hirschman and Madison Morrison also have a central presence in the network as poets who were actively being published in the scene. Alexandra Garrett is also a key figure with a high eigenvector centrality, as she is connected to Smith, Hirschman and Morrison. She first met Smith in 1973 at a conference in San Diego called the Committee of Small Magazine Editors and Publishers (COSMEP), and soon became the administrator in charge of Beyond Baroque’s Library of Independent Press Literary Publications. Her value to the foundation was not unrecognized, as she later became the vice president in 1979.
 
+[![1960s and 70s](https://i.postimg.cc/BnPcmCbn/60-70onemode-weight-csv.png)](https://postimg.cc/gxdZJ83C)
+
 ## The 1980s
 
 Starting in 1979, the new location of the Old Venice City Hall gave the foundation an established space for readings, performances, and gallery shows. With the growth of event programming and the incorporation of the NewComp Graphics Center, a new production and publishing facility, the 1980s saw an increase in the size of Beyond Baroque’s network of distribution. The central clustering of nodes in this network shows a higher weight of a person’s presence throughout the 1980s, whereas smaller weight and location on the periphery may show sparse entry into the community. Certain figures have high betweenness centrality in this network, existing on the outskirts of the central cluster, including figures like Ron Koertge, Benjamin Weissman and Bob Flanagan, all who were integral to the literary community in Los Angeles.
+
+[![1980s](https://i.postimg.cc/9f3PKqwt/80onemode-weight-csv.png)](https://postimg.cc/Hr277n2V)
 
 ## The 1990s
 
 After the financial struggles of the 1980s, Beyond Baroque saw a drastic growth in the number of connections between literary communities in Los Angeles. Despite this outgrowth of connections and a renewed vitality in the programming as a result of Fred Dewey’s early leadership as director of Beyond Baroque, the literary scene was in a sense more dispersed and fragmented. The network has a central clustering of nodes with several key figures with high degree centralities like Benjamin Weissman, Luis Alfaro, and Richard Grossman. Although these were important presences in Beyond Baroque, there were many other small outgroups who were just beginning to form relationships with Beyond Baroque, such as Harryette Mullen who was just entering the Los Angeles poetry scene in the nineties. Other scenes were also starting to be featured in Beyond Baroque programming, as poets from other cities visited to give readings, such as Camille Roy and Kevin Killian.
 
-![network](https://github.com/dylankarlsson/beyondvenice/blob/master/90onemode-weight.csv.png "1990s Network")
+[![1990s](https://i.postimg.cc/QxCh7G9R/90onemode-weight-csv.png)](https://postimg.cc/z3ssmQkj)
 
 ## The 2000s
 
