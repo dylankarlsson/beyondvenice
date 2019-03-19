@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Chapbook Archive
-author:
-date: 2016-09-06
+author: dk
+date:
 ---
 
 <iframe src="https://public.tableau.com/views/BeyondBaroqueChapbooks/Sheet2?:showVizHome=no&:embed=true&:display_count=yes"

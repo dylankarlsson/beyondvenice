@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Network Analysis
+author: dk
 ---
 ## [View Networks](https://dylankarlsson.github.io/bb-networks/#/)
 
